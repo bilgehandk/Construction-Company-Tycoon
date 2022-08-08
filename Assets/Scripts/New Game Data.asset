@@ -1,0 +1,448 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 951103032a9e4ac4883d542aeb4b7686, type: 3}
+  m_Name: New Game Data
+  m_EditorClassIdentifier: 
+  datas:
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 1
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 1
+    isUnlocked: 1
+    carIndex: 3
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 1
+    isUnlocked: 1
+    carIndex: 1
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 1
+    isUnlocked: 1
+    carIndex: 0
+    carName: 61
+    inProgress: 0
+    notificationID: 0
+  - isBought: 1
+    isUnlocked: 1
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 1
+    isUnlocked: 1
+    carIndex: 0
+    carName: 63
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 1
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  - isBought: 0
+    isUnlocked: 0
+    carIndex: 0
+    carName: 
+    inProgress: 0
+    notificationID: 0
+  money: 500000
